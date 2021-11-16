@@ -1,2 +1,2 @@
-# first_project_css_html
-این فقط یه پروژه ساده برای تست مهارت ها ی ناچیز من است
+# [صفحه ساده](https://sajadfahimian.github.io/SimpleHTMLAndCSSPage/)
+این فقط یه صفحه ی ساده برای تست بوده است
